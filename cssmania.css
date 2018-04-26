@@ -1,6 +1,7 @@
 .container {
   display: grid;
-  grid-template-columns: 150px 150px 150px 150px;
+  width: 800px;
+  grid-template-columns: 1fr 1fr 1fr 1fr; /* 4 equal columns */
   grid-template-rows: 150px 150px 150px 150px;
   grid-gap: 1rem; /* adds a gutter */
 }
