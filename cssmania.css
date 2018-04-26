@@ -1,8 +1,8 @@
 .container {
   display: grid;
   width: 800px;
-  grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
-  grid-template-rows: repeat(4, 150px;
+  grid-template-columns: 100px 40% repeat(2, 1fr); /* 1st column is fixed at 100px, 2nd occupies 30% of avail space, 3rd and 4th take up a fraction of the avail space. */
+  grid-template-rows: 200px 100px repeat(2, 50px);
   grid-gap: 1rem; /* adds a gutter */
 }
 
