@@ -1,4 +1,4 @@
-# CSS: Journey to Ninjahood
+# Journey to CSS Ninjahood
 
 ## cssmania: Mozilla Playground
 #### https://mozilladevelopers.github.io/playground/css-grid
